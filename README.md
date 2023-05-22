@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me gmail:ssarqkr@gmail.com
+- 📫 How to reach me gmail:ssarkqr@gmail.com
 
 <!---
 AnkurIbySarkar/AnkurIbySarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

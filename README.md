@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankur Sarkar</h1>
 <h3 align="center">A passionate Data Analyst aspirant from India</h3>
 
-- 🔭 I’m currently working on **Fraud Detection Systems**
+- 🔭 I’m currently working on **Large Language models Agents**
 
 - 🌱 I’m currently learning **Deep Learning and generative AI**
 

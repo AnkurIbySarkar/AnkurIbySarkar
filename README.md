@@ -1,6 +1,6 @@
 ![logo](https://github.com/AnkurIbySarkar/AnkurIbySarkar/blob/main/1663262344565.jpeg)
 <h1 align="center">Hi 👋, I'm Ankur Sarkar</h1>
-<h3 align="center">A passionate Data Analyst aspirant from India</h3>
+<h3 align="center">A passionate Data Scientist/ Gen AI Engineer / ML Engineer from India</h3>
 
 - 🔭 I’m currently working on **Large Language models Agents**
 
